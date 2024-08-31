@@ -12,7 +12,7 @@ Per introduir imatges
 * dipositem allà als arxius amb les imatges que necessitem
 * piquem el següent codi:
 
-.. figure:: /images/xml.png
+.. figure:: /doc/images/xml.png
     :align: right
     :alt: xml
     :scale: 30%
